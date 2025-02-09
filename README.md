@@ -1,5 +1,7 @@
 # Hi.. Andrew's Here! 👋
 
+<img src="https://andrewbrillyant.vercel.app/assets/hero-img-D6uuF3Cr.png" alt="Hero Image" width="330" height="300">
+
 You can easily called **Andrew Brillyant** as an ✨ IT Enthusiast ✨
 
 Here are some ideas to get you started:
