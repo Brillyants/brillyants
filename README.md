@@ -1,20 +1,28 @@
-## Hi.. Andrew Here! 👋
+# Hi.. Andrew's Here! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brillyants)](https://github.com/brillyants/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brillyants&show_icons=true)
-
-<!--
-**Brillyants/brillyants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can easily called **Andrew Brillyant** as an ✨ IT Enthusiast ✨
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **OCBC as Application Specialist**
+- 🌱 I’m currently learning **Web/Microsite development, Sitecore, Salesforce, and Marketing Technology  **
+- 👯 I’m looking to collaborate on **Web Development**
+- 💬 Feel free to ask me about anything **related to IT**
+- 📫 How to reach me: **085174419022**
+- 😄 Pronouns: **He**
+- ⚡ Fun fact: **I love music ♫**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brillyants&show_icons=true&theme=tokyonight)
+
+## Front End! 👋
+[![My Skills](https://skillicons.dev/icons?i=react,vue,html,css)](https://skillicons.dev)
+## Back End! 👋
+[![My Skills](https://skillicons.dev/icons?i=laravel,aws,js,mysql,spring)](https://skillicons.dev)
+## Environment! 👋
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+## Editing Tools
+[![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+
+
+
+
