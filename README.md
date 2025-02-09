@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Web Development**
 - 💬 Feel free to ask me about anything **related to IT**
 - 😄 Pronouns: **He**
-- ⚡ Fun fact: **I love music ♫**
+- ⚡ Fun fact: **I love music, especially 🎸**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brillyants&show_icons=true&theme=tokyonight)
 
