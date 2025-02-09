@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brillyants)](https://github.com/brillyants/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brillyants&show_icons=true)
+
 <!--
 **Brillyants/brillyants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
