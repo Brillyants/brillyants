@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Web/Microsite development, Sitecore, Salesforce, and Marketing Technology  **
 - 👯 I’m looking to collaborate on **Web Development**
 - 💬 Feel free to ask me about anything **related to IT**
-- 📫 How to reach me: **085174419022**
 - 😄 Pronouns: **He**
 - ⚡ Fun fact: **I love music ♫**
 
