@@ -4,7 +4,8 @@ You can easily called **Andrew Brillyant** as an ✨ IT Enthusiast ✨
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **OCBC as Application Specialist**
+- 🔭 I’m currently working on **OCBC Bank as Application Specialist**
+- 🌍 I'm from **Indonesia** 🇮🇩 
 - 🌱 I’m currently learning **Web/Microsite development, Sitecore, Salesforce, and Marketing Technology  **
 - 👯 I’m looking to collaborate on **Web Development**
 - 💬 Feel free to ask me about anything **related to IT**
