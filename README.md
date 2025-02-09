@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 ## Editing Tools
 [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
 
+## ☎️ Contact Information
+- 🌐 [Portfolio Website](https://andrewbrillyant.vercel.app)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/andrew-brillyant)
+- 📞 [WhatsApp](https://wa.me/6285174419022)
+- 📩 [Email](mailto:andrewbrillyant@gmail.com)
+- 📷 [Instagram](https://www.instagram.com/andrewbrillyant)
+- 💻 [GitHub](https://github.com/Brillyants)
 
-
-
+Thank you for visiting! 😊
