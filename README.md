@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brillyants&show_icons=true&theme=tokyonight)
 
 ## 🎨 Front End 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,html,css)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=react,vue,html,css)
 
 ## 🛠️ Back End 
-[![My Skills](https://skillicons.dev/icons?i=laravel,aws,js,mysql,spring)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=laravel,aws,js,mysql,spring)
 
 ## 💻 Environment 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=linux,windows)
 
 ## 🖊️ Editing Tools 
-[![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=ps)
 
 ## More About Me 😊
 As an graduated student with over 5 years of hands-on experience in web development, I am deeply passionate about programming and continuously seek opportunities to take on new challenges that will help me expand and refine my skills.
