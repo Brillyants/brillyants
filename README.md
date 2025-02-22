@@ -37,4 +37,3 @@ Feel free to reach out if you have any questions or would like to discuss potent
 - 📞 [WhatsApp](https://wa.me/6285174419022)
 - 📩 [Email](mailto:andrewbrillyant@gmail.com)
 - 📷 [Instagram](https://www.instagram.com/andrewbrillyant)
-- 💻 [GitHub](https://github.com/Brillyants)
