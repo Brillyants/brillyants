@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love music, especially 🎸**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brillyants&show_icons=true&theme=tokyonight)
-
 ## 🎨 Front End 
 ![My Skills](https://skillicons.dev/icons?i=react,vue,html,css)
 
